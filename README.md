@@ -5,9 +5,7 @@
 This repository contains the code and configurations used for AISA 2025. It covers detection-as-code and MCP set up.
 
 ## General Pre-requisities
-1. Visual Studio Code installed
-2. UV installed 
-3. Cline installed
-4. Python 3.11 or greater
+1. Laptop
+2. Github account
 
-Refer to instructions in the "Workshop Guide" folder 
+Following the guide in the documents in the repo: **AISA 2025 - Workshop Guide_ Automating Threat Hunting with Detection As Code**
